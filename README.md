@@ -1,4 +1,4 @@
-# Blynk-NodeMCU-ESP8266
+# Blynk NodeMCU ESP8266
 
 <p><b>Step-by-Step Guide to Create Project</b></p>
 
