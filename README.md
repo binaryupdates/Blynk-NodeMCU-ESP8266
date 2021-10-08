@@ -1,6 +1,6 @@
 # Blynk-NodeMCU-ESP8266
 
-Connect LED to GPIO2 on NodeMCU ESP8266
+<p><b>Step-by-Step Guide to Create Project</b></p>
 
 <p><b>STEP 1:</b> Create Blynk Account using https://blynk.cloud/dashboard/register</p>
 <p><b>STEP 2:</b> Install latest Blynk Libraries in Arduino IDE</p>
