@@ -8,3 +8,5 @@
 <p><b>STEP 4:</b> Install Blynk IoT App in Mobile Phone https://play.google.com/store/apps/details?id=cloud.blynk</p>
 <p><b>STEP 5:</b> Click "Add new device" and configure WiFi</p>
 <p><b>STEP 6:</b> Create Mobile App Project and Control LED</p>
+
+https://github.com/binaryupdates/Blynk-NodeMCU-ESP8266/blob/main/LED%20with%20NodeMCU%20ESP8266.jpg
